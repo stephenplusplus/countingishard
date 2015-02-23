@@ -1,7 +1,7 @@
 {
   "name": "countingishard",
   "author": "Stephen Sawchuk",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "halp the counts.",
   "main": "index.js",
   "repository": "stephenplusplus/countingishard",
