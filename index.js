@@ -10,5 +10,5 @@ function (h) { return h * mins(60) }
 var days = module.exports.days =
 function (d) { return d * hrs(24) }
 
-var weeks = module.exports.days =
+var weeks = module.exports.weeks =
 function (w) { return w * days(7) }

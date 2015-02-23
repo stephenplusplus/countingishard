@@ -1,0 +1,25 @@
+{
+  "name": "countingishard",
+  "author": "Stephen Sawchuk",
+  "version": "0.0.0",
+  "description": "halp the counts.",
+  "main": "index.js",
+  "repository": "stephenplusplus/countingishard",
+  "keywords": [
+    "count",
+    "hard",
+    "math",
+    "time"
+  ],
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
